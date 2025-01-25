@@ -1,2 +1,2 @@
 # Multiple-LinearRegression
-Memprediksi berapa jarak yang dapat ditempuh mobil dengan banyak predictor
+Memprediksi berapa jarak yang dapat ditempuh mobil dengan banyak predictor.
